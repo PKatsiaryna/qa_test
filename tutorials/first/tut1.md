@@ -9,7 +9,7 @@ tags: [  tutorial>intermediate, tutorial:type/project ]
 ## Test of accordion
   - **Author:** Kate
   
-[ACCORDION-BEGIN [STEP 1]()]
+[ACCORDION-BEGIN [STEP 1.1](test content to check very long titile of accordion Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas blandit odio ac ante lobortis euismod. Vestibulum in vulputate sapien, et posuere est.)]
 content of first element
 [ACCORDION-END]   
 [ACCORDION-BEGIN [STEP 2]()]
