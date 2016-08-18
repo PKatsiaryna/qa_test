@@ -1,8 +1,9 @@
-
 ---
-title: test page for nub
-description: kate test
-tags: [ tutorial>cloud ]
+
+title: Continuous Integration (CI) Best Practices with SAP: Pipeline Suggestions
+description: test content.
+tags: [  tutorial>intermediate, tutorial:type/project ]
+
 ---
 
 ## Test of accordion
