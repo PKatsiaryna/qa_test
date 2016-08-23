@@ -16,6 +16,7 @@ Next steps is option, hence, may not be present.
 ### We will check  
 
 1. view of button in text
+
 [DONE]
 2. button in accordion 
 3. dictionary for button
@@ -28,6 +29,7 @@ Beginners will take 30 minutes to finish this tutorial.
 
 [ACCORDION-BEGIN [test 1.1](test content to check very long titile of accordion Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas blandit odio ac ante lobortis euismod. Vestibulum in vulputate sapien, et posuere est.)]
 content of first element
+
 [DONE]
 [ACCORDION-END]   
 [ACCORDION-BEGIN [тестовые данные]()]
@@ -36,9 +38,11 @@ first do this
 study
 and then 
 click on DONE button
+
 [DONE]
 [ACCORDION-END]
 [ACCORDION-BEGIN [STEP 3](third item)]
 content of third element
+
 [DONE]
 [ACCORDION-END]
