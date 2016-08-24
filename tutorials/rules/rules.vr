@@ -1,4 +1,4 @@
-[VALIDATION_1]
+[VALIDATE_1]
 ###Rule
 exact-match
 
@@ -7,4 +7,4 @@ Enter the next value: test
 
 ###Match
 test
-[VALIDATION_1]
+[VALIDATE_1]
