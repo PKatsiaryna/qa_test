@@ -18,3 +18,4 @@ content of second element
 
 [ACCORDION-BEGIN [STEP 3](third item)]
 content of third element
+[ACCORDION-END]
