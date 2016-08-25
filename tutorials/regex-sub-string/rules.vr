@@ -1,0 +1,97 @@
+[VALIDATE_1]
+###Rule
+regex-sub-string
+
+###Question
+Enter the next value: test
+
+###Match
+test
+[VALIDATE_1]
+
+[VALIDATE_2]
+###Rule
+regex-sub-string
+
+###Question
+Enter the next value: TeSt
+
+###Match
+TeSt
+[VALIDATE_2]
+
+[VALIDATE_3]
+###Rule
+regex-sub-string
+
+###Question
+Enter the next value: test Content
+
+###Match
+test Content
+[VALIDATE_3]
+
+[VALIDATE_4]
+###Rule
+regex-sub-string
+
+###Question
+Enter the next value: 
+test
+value
+
+###Match
+test
+value
+[VALIDATE_4]
+
+[VALIDATE_5]
+###Rule
+regex-sub-string
+
+###Question
+Enter the next value: ~!@#$%^&*()_+"|?><}{][
+
+###Match
+~!@#$%^&*()_+"|?><}{][
+[VALIDATE_5]
+
+[VALIDATE_6]
+###Rule
+regex-sub-string
+
+###Question
+Enter value weather_app
+
+###Match
+weather_app
+[VALIDATE_6]
+
+[VALIDATE_7]
+###Rule
+regex-sub-string
+
+###Question
+Enter value 
+
+- `/weather_app/view/App.view.xml`   
+- `/weather_app/view/Details.view.xml`   
+- `/weather_app/view/List.view.xml`   
+
+###Match
+- `/weather_app/view/App.view.xml`
+- `/weather_app/view/Details.view.xml`
+- `/weather_app/view/List.view.xml`
+[VALIDATE_7]
+
+[VALIDATE_8]
+###Rule
+regex-sub-string
+
+###Question
+Enter value 
+https://codejamtrail.hanatrial.ondemand.com/codejam/mylibrary.xsjs
+
+###Match
+https://codejamtrail.hanatrial.ondemand.com/codejam/mylibrary.xsjs
+[VALIDATE_8]
