@@ -14,4 +14,25 @@ tags: [  tutorial>intermediate, tutorial:type/project ]
 [ACCORDION-END]   
 [ACCORDION-BEGIN [тестовые данные]()]
 content of second element
+
+[VALIDATE_2]
 [ACCORDION-END]
+[ACCORDION-BEGIN [step 3 with 2 forms]()]
+content of second element
+
+[VALIDATE_3]
+test content
+
+[VALIDATE_5]
+[ACCORDION-END]
+[ACCORDION-BEGIN [test step 4]()]
+content of second element
+
+[VALIDATE_4]
+[ACCORDION-END]
+[ACCORDION-BEGIN [test](~!@#$%^&*()_+)]
+content of second element
+
+[VALIDATE_6]
+[ACCORDION-END]
+
