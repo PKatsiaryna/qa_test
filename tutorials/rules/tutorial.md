@@ -34,5 +34,7 @@ content of second element
 content of second element
 
 [VALIDATE_6]
+[VALIDATE_7]
+[VALIDATE_8]
 [ACCORDION-END]
 
