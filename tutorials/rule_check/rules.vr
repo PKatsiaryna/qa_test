@@ -9,7 +9,6 @@ What is the name for the folder you created?
 weather_app
 [VALIDATE_1]
 
-
 [VALIDATE_2]
 ###Rule
 regex-substring
