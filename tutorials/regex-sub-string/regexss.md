@@ -46,6 +46,8 @@ In this tutorial you will implement a simple responsive, mobile-compatible user 
 
 [VALIDATE_2]
 test content
+
+[VALIDATE_5]
 [ACCORDION-END]
 [ACCORDION-BEGIN [STEP 4](Copy and paste the content from GitHub)]
 4. Copy and paste the content from GitHub into the respective files and familiarize yourself with the content of the individual files.
@@ -63,7 +65,9 @@ test content
 [ACCORDION-BEGIN [STEP 5](Replace the content of the `index.html` file)]
 5. Replace the content of the `index.html` file to match this [version in Github](https://raw.githubusercontent.com/SAP/cloud-weatherapp/4c6c4ca78a680042fda82ab1d413e520608b581c/src/main/webapp/index.html).
 
-[DONE]
+[VALIDATE_6]
+[validate_7]
+[VALIDATE_8]
 [ACCORDION-END]
 [ACCORDION-BEGIN [STEP 6](Publish/deploy your updated app)]
 6. Publish/deploy your updated app and navigate your browser to the root URL: <http://localhost:8080/weatherapp>. After successful authentication you should see a fully operational UI.
