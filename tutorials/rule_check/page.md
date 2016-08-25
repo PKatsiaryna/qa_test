@@ -1,6 +1,6 @@
 ---
 title: End-to-End Weather App Scenario Part 9
-description: test page for rules
+description: test page for several rules 
 tags: [ products>sap-hana-cloud-platform, topic>cloud, topic>java, tutorial>intermediate]
 ---
 
