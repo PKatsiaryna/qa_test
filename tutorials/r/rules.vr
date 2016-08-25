@@ -1,0 +1,10 @@
+[VALIDATE_1]
+###Rule
+exact-match
+
+###Question
+Enter the next value: test
+
+###Match
+test
+[VALIDATE_1]
