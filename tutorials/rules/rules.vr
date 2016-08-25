@@ -73,9 +73,9 @@ exact-match
 
 ###Question
 Enter value 
-- `/weather_app/view/App.view.xml`
-- `/weather_app/view/Details.view.xml`
-- `/weather_app/view/List.view.xml`
+- `/weather_app/view/App.view.xml`   
+- `/weather_app/view/Details.view.xml`   
+- `/weather_app/view/List.view.xml`   
 
 ###Match
 - `/weather_app/view/App.view.xml`
