@@ -3,8 +3,41 @@
 exact-match
 
 ###Question
-Enter the next value: test
+Marina's age?
 
 ###Match
-test
+secret
 [VALIDATE_1]
+
+[VALIDATE_2]
+###Rule
+regex-substring
+
+###Question
+Enter Marina's surname?
+
+###Match
+Amosova
+[VALIDATE_2]
+
+[VALIDATE_3]
+###Rule
+regex-substring
+
+###Question
+What is day today?
+
+###Match
+Monday
+[VALIDATE_3]
+
+[VALIDATE_4]
+###Rule
+regex-with-id-exact-match
+
+###Question
+Enter city where Marina lives
+
+###Match
+Grodno
+[VALIDATE_4]
