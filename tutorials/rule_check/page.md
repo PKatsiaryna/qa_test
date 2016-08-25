@@ -20,6 +20,7 @@ In this tutorial you will implement a simple responsive, mobile-compatible user 
 ---
 [ACCORDION-BEGIN [STEP 1](Create a folder)]
 1. Create a `weather_app` folder underneath the `webapp` folder.
+
 [DONE]
 [ACCORDION-END]
 
@@ -54,10 +55,12 @@ test content
     - `/weather_app/view/`[`List.view.xml`](https://raw.githubusercontent.com/SAP/cloud-weatherapp/4c6c4ca78a680042fda82ab1d413e520608b581c/src/main/webapp/weather_app/view/List.view.xml)
     - `/weather_app/`[`Component.js`](https://raw.githubusercontent.com/SAP/cloud-weatherapp/4c6c4ca78a680042fda82ab1d413e520608b581c/src/main/webapp/weather_app/Component.js)
     - `/weather_app`[`/util/formatter.js`](https://raw.githubusercontent.com/SAP/cloud-weatherapp/master/src/main/webapp/weather_app/util/formatter.js)
+    
 [DONE]
 [ACCORDION-END]
 [ACCORDION-BEGIN [STEP 5](Replace the content of the `index.html` file)]
 5. Replace the content of the `index.html` file to match this [version in Github](https://raw.githubusercontent.com/SAP/cloud-weatherapp/4c6c4ca78a680042fda82ab1d413e520608b581c/src/main/webapp/index.html).
+
 [DONE]
 [ACCORDION-END]
 [ACCORDION-BEGIN [STEP 6](Publish/deploy your updated app)]
