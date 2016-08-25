@@ -1,6 +1,6 @@
 ---
 title: End-to-End Weather App Scenario Part 9
-description: Implement a responsive UI using OpenUI5
+description: test page for rules
 tags: [ products>sap-hana-cloud-platform, topic>cloud, topic>java, tutorial>intermediate]
 ---
 
