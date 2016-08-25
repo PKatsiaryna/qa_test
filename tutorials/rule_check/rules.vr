@@ -1,0 +1,46 @@
+[VALIDATE_1]
+###Rule
+exact-match
+
+###Question
+What is the name for the folder you created? 
+
+###Match
+weather_app
+[VALIDATE_1]
+
+
+[VALIDATE_2]
+###Rule
+regex-substring
+
+###Question
+Provide the name for XML files you created. 
+
+###Match
+    - `/weather_app/view/App.view.xml`
+    - `/weather_app/view/Details.view.xml`
+    - `/weather_app/view/List.view.xml`
+[VALIDATE_2]
+
+[VALIDATE_3]
+###Rule
+regex-begins-with
+
+###Question
+Enter the first letter for GitHub.
+
+###Match
+G
+[VALIDATE_3]
+
+[VALIDATE_4]
+###Rule
+regex-with-id-exact-match
+
+###Question
+Enter URL to your application //[id] will be changed to uid
+
+###Match
+https://codejam[id]trail.hanatrial.ondemand.com/codejam/mylibrary.xsjs
+[VALIDATE_4]
