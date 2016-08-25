@@ -26,6 +26,7 @@ In this tutorial you will implement a simple responsive, mobile-compatible user 
 
 [ACCORDION-BEGIN [STEP 2](Create a view folder)]
 2. In that `weather_app` folder create another sub-folder called `view`.
+
 [VALIDATE_1]
 [ACCORDION-END]
 [ACCORDION-BEGIN [STEP 3](Create JavaScript and XML files)]
@@ -42,6 +43,7 @@ In this tutorial you will implement a simple responsive, mobile-compatible user 
     >Note that `Component.js` is in the `weather_app` directory, not the `weather_app/view` directory, and you must create the `util` directory for the `formatter.js` file.
 
     ![Project explorer for UI5 view](https://raw.githubusercontent.com/SAPDocuments/Tutorials/master/tutorials/hcp-java-weatherapp-part9/e2e_09-3.png)
+
 [VALIDATE_2]
 test content
 [ACCORDION-END]
@@ -69,8 +71,10 @@ test content
     ![App example showing weather info for a specific city](https://raw.githubusercontent.com/SAPDocuments/Tutorials/master/tutorials/hcp-java-weatherapp-part9/e2e_09-6.png)
 
     >Note: Feel free beautify the UI by applying formatters and respective icons etc.
+
 [VALIDATE_3]
 test content is here
+
 [VALIDATE_4]
 [ACCORDION-END]
 
