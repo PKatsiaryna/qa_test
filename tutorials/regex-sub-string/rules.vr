@@ -134,3 +134,27 @@ var timer = setInterval(function () {
   dx = (e.keyCode - 38) % 2, dy = (e.keyCode - 39) % 2;
 };
 [VALIDATE_9]
+
+[VALIDATE_10]
+###Rule
+regex-substring
+
+###Question
+Enter value 
+tetettt
+
+###Match
+tttt
+[VALIDATE_10]
+
+[VALIDATE_11]
+###Rule
+regex-substring
+
+###Question
+Enter value 
+eee
+
+###Match
+eee
+[VALIDATE_11]
