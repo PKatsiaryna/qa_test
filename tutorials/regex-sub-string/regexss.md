@@ -48,6 +48,7 @@ In this tutorial you will implement a simple responsive, mobile-compatible user 
 test content
 
 [VALIDATE_5]
+[VALIDATE_9]
 [ACCORDION-END]
 [ACCORDION-BEGIN [STEP 4](Copy and paste the content from GitHub)]
 4. Copy and paste the content from GitHub into the respective files and familiarize yourself with the content of the individual files.
