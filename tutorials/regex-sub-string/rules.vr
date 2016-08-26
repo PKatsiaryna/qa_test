@@ -1,6 +1,6 @@
 [VALIDATE_1]
 ###Rule
-regex-sub-string
+regex-substring
 
 ###Question
 Enter the next value: test
@@ -11,7 +11,7 @@ test
 
 [VALIDATE_2]
 ###Rule
-regex-sub-string
+regex-substring
 
 ###Question
 Enter the next value: TeSt
@@ -22,7 +22,7 @@ TeSt
 
 [VALIDATE_3]
 ###Rule
-regex-sub-string
+regex-substring
 
 ###Question
 Enter the next value: test Content
@@ -33,7 +33,7 @@ test Content
 
 [VALIDATE_4]
 ###Rule
-regex-sub-string
+regex-substring
 
 ###Question
 Enter the next value: 
@@ -47,7 +47,7 @@ value
 
 [VALIDATE_5]
 ###Rule
-regex-sub-string
+regex-substring
 
 ###Question
 Enter the next value: ~!@#$%^&*()_+"|?><}{][
@@ -58,7 +58,7 @@ Enter the next value: ~!@#$%^&*()_+"|?><}{][
 
 [VALIDATE_6]
 ###Rule
-regex-sub-string
+regex-substring
 
 ###Question
 Enter value weather_app
@@ -69,7 +69,7 @@ weather_app
 
 [VALIDATE_7]
 ###Rule
-regex-sub-string
+regex-substring
 
 ###Question
 Enter value 
@@ -85,7 +85,7 @@ Enter value
 
 [VALIDATE_8]
 ###Rule
-regex-sub-string
+regex-substring
 
 ###Question
 Enter value 
@@ -97,7 +97,7 @@ https://codejamtrail.hanatrial.ondemand.com/codejam/mylibrary.xsjs
 
 [VALIDATE_9]
 ###Rule
-regex-sub-string
+regex-substring
 
 ###Question
 Enter value 
