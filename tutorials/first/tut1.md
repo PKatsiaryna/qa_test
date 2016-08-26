@@ -1,6 +1,6 @@
 ---
 
-title: Continuous Integration (CI) Best Practices with SAP: Pipeline Suggestions
+title: Continuous Integration Best Practices with SAP: Pipeline Suggestions
 description: test content.
 tags: [  tutorial>intermediate, tutorial:type/project ]
 
