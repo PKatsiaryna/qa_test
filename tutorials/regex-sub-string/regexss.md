@@ -21,7 +21,6 @@ In this tutorial you will implement a simple responsive, mobile-compatible user 
 [ACCORDION-BEGIN [STEP 1](Create a folder)]
 1. Create a `weather_app` folder underneath the `webapp` folder.
 
-[DONE]
 [ACCORDION-END]
 
 [ACCORDION-BEGIN [STEP 2](Create a view folder)]
