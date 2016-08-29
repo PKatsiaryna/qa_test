@@ -24,7 +24,7 @@ In this tutorial you will implement a simple responsive, mobile-compatible user 
     [VALIDATE_10]
     [VALIDATE_11]
     [ACCORDION-END]
-
+    
     [ACCORDION-BEGIN [STEP 2](Create a view folder)]
 2. In that `weather_app` folder create another sub-folder called `view`.
     
