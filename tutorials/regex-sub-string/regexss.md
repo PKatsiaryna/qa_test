@@ -26,12 +26,12 @@ In this tutorial you will implement a simple responsive, mobile-compatible user 
     [ACCORDION-END]
 
     [ACCORDION-BEGIN [STEP 2](Create a view folder)]
-2. In that `weather_app` folder create another sub-folder called `view`.
+    2. In that `weather_app` folder create another sub-folder called `view`.
     
     [VALIDATE_1]
     [ACCORDION-END]
     [ACCORDION-BEGIN [STEP 3](Create JavaScript and XML files)]
-3. Next create the following JavaScript and XML files:
+    3. Next create the following JavaScript and XML files:
 
     - `/weather_app/view/App.view.xml`
     - `/weather_app/view/Details.controller.js`
