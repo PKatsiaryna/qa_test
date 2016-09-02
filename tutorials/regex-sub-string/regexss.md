@@ -20,18 +20,18 @@ In this tutorial you will implement a simple responsive, mobile-compatible user 
 ---
 [ACCORDION-BEGIN [STEP 1](Create a folder)]
 1. Create a `weather_app` folder underneath the `webapp` folder.
-    
-    [VALIDATE_10]
-    [VALIDATE_11]
-    [ACCORDION-END]
-    
-    [ACCORDION-BEGIN [STEP 2](Create a view folder)]
+
+[VALIDATE_10]
+[VALIDATE_11]
+[ACCORDION-END]
+
+[ACCORDION-BEGIN [STEP 2](Create a view folder)]
 2. In that `weather_app` folder create another sub-folder called `view`.
-    
-    [VALIDATE_1]
-    [ACCORDION-END]
-    [ACCORDION-BEGIN [STEP 3](Create JavaScript and XML files)]
-    3. Next create the following JavaScript and XML files:
+
+[VALIDATE_1]
+[ACCORDION-END]
+[ACCORDION-BEGIN [STEP 3](Create JavaScript and XML files)]
+3. Next create the following JavaScript and XML files:
 
     - `/weather_app/view/App.view.xml`
     - `/weather_app/view/Details.controller.js`
@@ -40,14 +40,14 @@ In this tutorial you will implement a simple responsive, mobile-compatible user 
     - `/weather_app/view/List.view.xml`
     - `/weather_app/Component.js`
     - `/weather_app/util/formatter.js`
-    
-    >Note that `Component.js` is in the `weather_app` directory, not the `weather_app/view` directory, and you must create the `util` directory for the `formatter.js` file.
-    
-    ![Project explorer for UI5 view](https://raw.githubusercontent.com/SAPDocuments/Tutorials/master/tutorials/hcp-java-weatherapp-part9/e2e_09-3.png)
-    
-    [VALIDATE_2]
-    
-    test content
+ 
+>Note that `Component.js` is in the `weather_app` directory, not the `weather_app/view` directory, and you must create the `util` directory for the `formatter.js` file.
+ 
+![Project explorer for UI5 view](https://raw.githubusercontent.com/SAPDocuments/Tutorials/master/tutorials/hcp-java-weatherapp-part9/e2e_09-3.png)
+ 
+[VALIDATE_2]
+
+test content
 
 [VALIDATE_5]
 [VALIDATE_9]
@@ -73,6 +73,11 @@ In this tutorial you will implement a simple responsive, mobile-compatible user 
 [VALIDATE_7]
 
 [VALIDATE_8]
+[ACCORDION-END]
+[ACCORDION-BEGIN [STEP 5/2](test button)]
+test content here
+
+[DONE]
 [ACCORDION-END]
 [ACCORDION-BEGIN [STEP 6](Publish/deploy your updated app)]
 6. Publish/deploy your updated app and navigate your browser to the root URL: <http://localhost:8080/weatherapp>. After successful authentication you should see a fully operational UI.
