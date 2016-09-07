@@ -1,5 +1,5 @@
 ---
-title: regex sub string check for me
+title: regex sub string check for me пп
 description: test page for several rules 
 tags: [ products>sap-hana-cloud-platform, topic>cloud, topic>java, tutorial>intermediate]
 ---
