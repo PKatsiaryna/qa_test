@@ -21,7 +21,7 @@ In this tutorial you will implement a simple responsive, mobile-compatible user 
 [ACCORDION-BEGIN [STEP 1](Create a folder)]
 1. Create a `weather_app` folder underneath the `webapp` folder.
 
-![image] (font ie.jpg)
+![image] (font ie.JPG)
 
 [VALIDATE_10]
 [VALIDATE_11]
