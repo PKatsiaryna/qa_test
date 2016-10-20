@@ -112,3 +112,14 @@ The goal of this guide is to provide recommendations that focus on the complete 
 up using widely adapted complementary tools. The choice of tools should be considered as examples. Other tools fulfilling the same purpose will work as well.
 
 We will examine the most important SAP technologies and describe how to use existing tools to set up a CI process that fits the individual needs of your development project, your requirements, and your environment.
+
+Sometimes you want bullet points:
+
+* Start a line with a star
+* Profit!
+
+You can create nested lists: 
+
+* item1
+    * one_one
+    * two
