@@ -48,24 +48,51 @@ Beginners will take 30 minutes to finish this tutorial.
 > 2. Go to **Projects > Create New Project**. 
 > 3. Enter the project name `HelloWorld` and select **Create initial empty commit**. This automatically creates the master branch.
 > 4. Enter `Rights Inherit From:` `CI-Projects`[link without name](https://gerrit-review.googlesource.com/Documentation/cmd-create-project.html).
-
+test content
+* item1 [Generic Project123](http://go.sap.com/developer/tutorials/ci-best-practices-generic.html)
+    * one_one
+    * two [Generic Project321](http://go.sap.com/developer/tutorials/ci-best-practices-generic.html)
 &nbsp;
 
 
 >### Note
 >If you have skipped the tutorial [Extend the YaaS Storefront's Functionality](http://go.sap.com/developer/tutorials/yaas-extend-storefront-functionality-webservice.html), you can clone the Tips Micro Service with this command. `git clone https://github.com/SAP/yaas-getting-started-yaasbites.git`
-
+> 1. Access the Gerrit front end with a browser on port 8080 and log on with your admin user.
+> 2. Go to **Projects > Create New Project**. 
+> 3. Enter the project name `HelloWorld` and select **Create initial empty commit**. This automatically creates the master branch.
+> 4. Enter `Rights Inherit From:` `CI-Projects`[link without name](https://gerrit-review.googlesource.com/Documentation/cmd-create-project.html).
+test content
+* item1 [Generic Project123](http://go.sap.com/developer/tutorials/ci-best-practices-generic.html)
+    * one_one
+    * two [Generic Project321](http://go.sap.com/developer/tutorials/ci-best-practices-generic.html)
+    
 &nbsp;
 
 
 >### Warning
 >If you have skipped the tutorial [Extend the YaaS Storefront's Functionality](http://go.sap.com/developer/tutorials/yaas-extend-storefront-functionality-webservice.html), you can clone the Tips Micro Service with this command. `git clone https://github.com/SAP/yaas-getting-started-yaasbites.git`
-
+> 1. Access the Gerrit front end with a browser on port 8080 and log on with your admin user.
+> 2. Go to **Projects > Create New Project**. 
+> 3. Enter the project name `HelloWorld` and select **Create initial empty commit**. This automatically creates the master branch.
+> 4. Enter `Rights Inherit From:` `CI-Projects`[link without name](https://gerrit-review.googlesource.com/Documentation/cmd-create-project.html).
+test content
+* item1 [Generic Project123](http://go.sap.com/developer/tutorials/ci-best-practices-generic.html)
+    * one_one
+    * two [Generic Project321](http://go.sap.com/developer/tutorials/ci-best-practices-generic.html)
+    
 &nbsp;
 
 >### Caution
 >If you have skipped the tutorial [Extend the YaaS Storefront's Functionality](http://go.sap.com/developer/tutorials/yaas-extend-storefront-functionality-webservice.html), you can clone the Tips Micro Service with this command. `git clone https://github.com/SAP/yaas-getting-started-yaasbites.git`
-
+> 1. Access the Gerrit front end with a browser on port 8080 and log on with your admin user.
+> 2. Go to **Projects > Create New Project**. 
+> 3. Enter the project name `HelloWorld` and select **Create initial empty commit**. This automatically creates the master branch.
+> 4. Enter `Rights Inherit From:` `CI-Projects`[link without name](https://gerrit-review.googlesource.com/Documentation/cmd-create-project.html).
+test content
+* item1 [Generic Project123](http://go.sap.com/developer/tutorials/ci-best-practices-generic.html)
+    * one_one
+    * two [Generic Project321](http://go.sap.com/developer/tutorials/ci-best-practices-generic.html)
+    
 &nbsp;
 
 А вот [пример][1] [нескольких][2] [ссылок][id] с разметкой как у сносок. Прокатит и [короткая запись][] без указания id.
