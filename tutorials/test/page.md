@@ -49,9 +49,9 @@ Beginners will take 30 minutes to finish this tutorial.
 > 3. Enter the project name `HelloWorld` and select **Create initial empty commit**. This automatically creates the master branch.
 > 4. Enter `Rights Inherit From:` `CI-Projects`[link without name](https://gerrit-review.googlesource.com/Documentation/cmd-create-project.html).
 > test content
-> * item1 [Generic Project123](http://go.sap.com/developer/tutorials/ci-best-practices-generic.html)
->     * one_one
->     * two [Generic Project321](http://go.sap.com/developer/tutorials/ci-best-practices-generic.html)
+>* item1 [Generic Project123](http://go.sap.com/developer/tutorials/ci-best-practices-generic.html)
+>    * one_one
+>    * two [Generic Project321](http://go.sap.com/developer/tutorials/ci-best-practices-generic.html)
     
 &nbsp;
 
